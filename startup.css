@@ -1,0 +1,27 @@
+body,
+html {
+  width                  : 100%;
+  height                 : 100%;
+  font-family            : 'Montserrat', sans-serif;
+
+  background             : url(newbackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size   : cover;
+  -o-background-size     : cover;
+  background-size        : cover;
+}
+h1 {
+  font-size              : 3em ;
+  color                  : #1953b0;
+}
+
+.buffer { 
+height: 50px; 
+}
+
+ hr {
+  border-width           : 5px;
+  border-color           : #28a745;
+  max-width              : 60px;
+  border-radius          : 300px;
+}
